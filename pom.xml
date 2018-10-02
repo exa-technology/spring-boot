@@ -54,7 +54,7 @@
 			</plugin>
 		</plugins>
 	</build>
-		<profils>
+		<profiles>
 			<profile>
 			    <id>dev</id>
 			    <properties>
@@ -70,7 +70,7 @@
 				<activatedProperties>release</activatedProperties>
 			    </properties>
 			</profile>
-		</profils>
+		</profiles>
 		<build>
 		    <resources>
 			<resource>
