@@ -70,7 +70,7 @@
 				<activatedProperties>release</activatedProperties>
 			    </properties>
 			</profile>
-		<profils>
+		</profils>
 		<build>
 		    <resources>
 			<resource>
